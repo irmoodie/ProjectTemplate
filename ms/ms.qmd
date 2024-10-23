@@ -1,0 +1,24 @@
+---
+title: "Project Templace"
+bibliography: ../bib/refs.bib
+csl: ../bib/the-american-naturalist.csl
+format:
+  docx:
+    reference-doc: ../bib/template.docx
+    output-file: ms.docx
+editor_options: 
+  chunk_output_type: console
+execute:
+  freeze: auto  # re-render only when source changes
+  cache: false
+  echo: false
+  warning: false
+  error: false
+  include: true
+crossref:
+  fig-title: 'Figure'
+  fig-labels: arabic
+  title-delim: "-"
+  fig-prefix: "figure"
+  tbl-prefix: "table"
+---
