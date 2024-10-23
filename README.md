@@ -52,4 +52,4 @@ Feel free to customize the template to better fit your specific needs. You can m
 
 ## 5. Getting help
 
-If you encounter any issues or have questions, please open an issue.
+If you encounter any issues or have questions, please [open an issue](https://github.com/irmoodie/ProjectTemplate/issues).
